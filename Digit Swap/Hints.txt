@@ -1,0 +1,1 @@
+Read as string or characters.

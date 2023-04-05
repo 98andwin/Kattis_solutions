@@ -1,0 +1,3 @@
+Keep track on which lines you are looking at.
+
+Use for loops to make it easier.

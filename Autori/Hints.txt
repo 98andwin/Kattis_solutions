@@ -1,0 +1,9 @@
+You can convert characters to their respective ascii token by casting them as int.
+
+For example 
+char letter = c
+int ascii = letter
+
+cout << letter << ' ' << ascii
+
+#Outputs "c 99"

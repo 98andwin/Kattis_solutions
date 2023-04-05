@@ -1,0 +1,1 @@
+<string> constructor can make repeating characters, std::string (int amount, char character)

@@ -1,0 +1,1 @@
+Check only the first three characters if all three are "5"s.

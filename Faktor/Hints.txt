@@ -1,0 +1,1 @@
+You want to bribe the minimum amount, since the factor is always rounded up it can be lower than necessary.
