@@ -1,0 +1,3 @@
+Check the numbers as strings and not as integers.
+
+If log10(number) is an integer, you can output 0. (All those numbers are 0, 10, 100, 1000, 10000, etc.)

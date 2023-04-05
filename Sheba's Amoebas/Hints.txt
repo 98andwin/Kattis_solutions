@@ -1,0 +1,3 @@
+Use recursive function to navigate through each amoeba.
+Only need to check its neighbors.
+Recommendation to have a 2D array of which pixels you've visited.

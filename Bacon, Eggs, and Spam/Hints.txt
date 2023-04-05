@@ -1,0 +1,2 @@
+Use a Map for mapping each ingredient to a Set of names
+Use iterator to loop through each element, with iterator it's automatically in lexicographical order.

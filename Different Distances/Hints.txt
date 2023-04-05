@@ -1,0 +1,3 @@
+Just follow the formula.
+
+<math.h> library can help.

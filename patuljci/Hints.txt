@@ -1,0 +1,1 @@
+Instead of adding all the numbers to find the sum, calculate the difference of the total sum and 100 and find the two numbers which add to that difference.

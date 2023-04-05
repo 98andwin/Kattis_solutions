@@ -1,0 +1,5 @@
+You can use a recursive function to create the border from the bottom up with a Vector.
+
+If you go out of bounds, extend the board once.
+
+If the first is empty, you fill the holes.

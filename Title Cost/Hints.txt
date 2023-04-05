@@ -1,0 +1,3 @@
+Is the length of the string larger than the number?
+
+Output the smaller.

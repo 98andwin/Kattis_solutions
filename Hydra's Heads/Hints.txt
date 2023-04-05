@@ -1,0 +1,9 @@
+Logic exercise
+
+Cut tails first, then cut heads.
+
+0 heads and 4 tails finishes in 3 turns
+
+1 head and 2 tails finishes in 2 turns
+
+Even heads and 0 tails finished in heads/2 turns

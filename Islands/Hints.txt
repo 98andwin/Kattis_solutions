@@ -1,0 +1,5 @@
+Use a recursive function to merge clouds with land.
+
+You can reuse that function to then find amount of islands.
+
+Have a 2D array to monitor visited places.

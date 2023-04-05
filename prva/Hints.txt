@@ -1,0 +1,3 @@
+For each row/column, check all words with 2 or more characters.
+
+Save the "smallest" word as a variable and update if you find any word that's smaller.

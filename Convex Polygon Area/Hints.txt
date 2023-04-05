@@ -1,0 +1,9 @@
+Use the first point as an anchor point.
+Then iterate through every two consecutive points and add to area.
+
+You can use this formula for calculating the area of a triangle with 3 coordinate points.
+
+(1/2)*abs((xa-xc)*(yb-ya)-(xa-xb)*(yc-ya))
+
+Picture of formula from wikipedia (Area of a triangle):
+https://wikimedia.org/api/rest_v1/media/math/render/svg/16c43b4e96346a8a1b86097618fdd30c4e4a9b32

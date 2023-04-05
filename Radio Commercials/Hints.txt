@@ -1,0 +1,2 @@
+This problem is the "Maximum Subarray Problem" in disguise.
+Use Kadane's algorithm (or any O(n) time complexity algorithm) to not get Time Exceeded

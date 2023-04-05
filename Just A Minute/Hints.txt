@@ -1,0 +1,3 @@
+Add the minutes and resulting seconds together separately.
+
+Divide the total recorded seconds (minutes) with the total recorded minutes.

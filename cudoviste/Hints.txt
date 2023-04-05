@@ -1,0 +1,4 @@
+Use a 2D vector to create the map of the surrounding.
+
+Then iterate through the map and add [index][index], [index+1][index], [index][index+1] and [index+1][index+1], for every car encountered.
+If any is a building, go next.

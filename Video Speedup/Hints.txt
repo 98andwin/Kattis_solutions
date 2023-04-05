@@ -1,0 +1,5 @@
+Save the previous value as a variable to remember each time interval.
+
+The speedup can be calculated with (total speedup factor / 100) where the speedup factor starts on 100 and gets added for each time interval.
+
+Don't forget the last interval.

@@ -1,0 +1,3 @@
+First figure out if the first entry is a string or a number.
+
+(Something I didn't do, you can use cin.peek() to check if the next character is a newline or not (newlines have the ascii value 10))

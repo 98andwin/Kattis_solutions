@@ -1,0 +1,3 @@
+Put all names in a vector and loop through it to choose name.
+
+Either have a separate vector for checking already picked names, or delete from vector when picking.

@@ -1,0 +1,9 @@
+Every gear shares it's individual ratio. Check first with second, first with third, first with fourth, and so on.
+
+Fractions can be easily calculated by using GCD (greatest common denominator).
+
+Nominator/GCD
+--------------
+Denominator/GCD
+
+Euklides algorithm can be used to find GCD fast.

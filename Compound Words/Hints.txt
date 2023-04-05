@@ -1,0 +1,2 @@
+Use a Set to avoid duplicates.
+Then use for loops to create every word.

@@ -1,0 +1,3 @@
+Iterate through each character in the string.
+
+If it's a vowel, jump two characters.

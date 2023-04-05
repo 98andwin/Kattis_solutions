@@ -1,0 +1,3 @@
+Go through every place and calculate the resulting cost.
+
+Save the least cost as a variable and update if you find any lower.

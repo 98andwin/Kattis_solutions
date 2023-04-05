@@ -1,0 +1,26 @@
+Start inside to outside. 
+
+
+Step 1: Start on index 1
+Step 2: Shift left to non-zero
+Step 2a: If not equal, put beside
+Step 2b: If equal, merge
+Sten 2c: If merged before, don’t merge
+
+Examples
+2 2 8 16 <—
+
+4 0 8 16
+4 8 0 16
+4 8 16 0
+
+
+2 2 8 8 <—
+4 0 8 8
+4 8 0 8
+4 16 0 0
+
+2 2 4 4 <—
+4 0 4 4
+4 4 0 4 (2s merged before, so these can’t merge)
+4 8 0 0

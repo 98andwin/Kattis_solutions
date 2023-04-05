@@ -1,0 +1,8 @@
+Assume all T-T and F-F pairs are true.
+
+Add such pairs to the sum, until you've reached the friends total points.
+
+If sum hasn't reached total friends points, then discard as many pairs needed. T-T and F-F first, then F-T and lastly T-F.
+
+
+Once the friends points have been reached, all T-F and F-T pairs are points and should be added to the sum.

@@ -1,0 +1,12 @@
+Save everything into a 2D array and check respective 5*3 rectangle.
+
+There are multiple ways of checking which number it is. I checked the sum of every occupied index.
+
+
+1 	2 	3
+4 	5 	6
+7 	8 	9
+10 	11 	12
+13 	14 	15
+
+For example "1" would occupy indexes 3, 6, 9, 12 and 15 which would give the sum 45.

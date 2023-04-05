@@ -1,0 +1,3 @@
+Initialize the coordinates as 0 and the angle as 90.
+
+Update coordinates and angles for each traverse of the vacuumba.

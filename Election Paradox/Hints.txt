@@ -1,0 +1,18 @@
+Order integers first.
+
+Add half of the largest half of numbers to the sum (Representing lost regions).
+Add all of the least half of numbers to the sum (Representing won regions).
+
+Example
+
+7 7 5 3 1
+
+7 6 5 is the larger half
+
+Add 3, 3 and 2 ( (number-1) / 2).
+
+4 1 is the smaller half
+
+Add 4 and 1
+
+3+3+2+4+1 = 13

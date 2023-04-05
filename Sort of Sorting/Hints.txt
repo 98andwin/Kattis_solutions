@@ -1,0 +1,5 @@
+Calculate the index using ascii values for the two first characters.
+
+Use a Map filled with Vectors for easy printing of the order. Using a iterator through the map will get the correct order with the indexes and the Vector will deal in with the order it was first inserted.
+
+If a word has the same index as another, just use push_back() onto that vector.

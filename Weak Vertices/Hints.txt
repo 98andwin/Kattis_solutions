@@ -1,0 +1,5 @@
+If two vertices match (have value 1) check each seperate vertices value.
+
+If both share a common vertex (both have value 1) then they create a triangle and is good.
+
+If not it's a weak vertex.

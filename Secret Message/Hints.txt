@@ -1,0 +1,3 @@
+Use <math.h> library's sqrt and ceil to find out the size of the matrix.
+
+Simply fill it in and read as the instructions say.

@@ -1,0 +1,6 @@
+Use formula to calculate the area.
+
+For finding apples, you can create 3 new triangles, apple-point1-point2, apple-point2-point3, apple-point1-point3.
+
+If the areas of the three smaller triangles equal the original area, it's inside.
+Otherwise it's outside since the area got larger.

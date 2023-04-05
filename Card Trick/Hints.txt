@@ -1,0 +1,3 @@
+Shuffle, then place in first. In that order.
+
+Use a vector as placeholder for when shuffling the order.

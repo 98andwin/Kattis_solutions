@@ -1,0 +1,2 @@
+Add the top and bottom as one group, do the same with left and right pieces.
+Subtract as many pairs until you can't.

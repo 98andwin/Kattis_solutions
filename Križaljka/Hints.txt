@@ -1,0 +1,3 @@
+Find the first letter in the First word that matches a character in the Second word.
+
+You can save the letters position so you know which row/column you print each respective character.

@@ -1,0 +1,3 @@
+Calculate the quotient using x and y.
+
+Then multiply that with the amount of ingredients.

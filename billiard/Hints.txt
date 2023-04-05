@@ -1,0 +1,4 @@
+Start with calculating the distance first.
+Draw a picture of an easy case (1 or 2 bounces).
+
+If you've succeeded with the distance, use those to calculate the angle.

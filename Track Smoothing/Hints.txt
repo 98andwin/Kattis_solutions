@@ -1,0 +1,5 @@
+All the curves lengths will add up to a full rotation of a circle.
+
+The total length of the track is all sides + circumference of a circle with radius of the minimum radius.
+
+If the total length is less than the circles circumference, it's not possible to construct the track.

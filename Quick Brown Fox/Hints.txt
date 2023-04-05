@@ -1,0 +1,6 @@
+Create an array of size 26 (amount of letters in the alphabet) and put a 1 in index of letters ascii representation.
+
+Check upper and lowercase characters separately.
+
+Once you've gone through all the characters, if all are 1s it's a pangram.
+Else just output the character, tip is with "char letter = index + 97".

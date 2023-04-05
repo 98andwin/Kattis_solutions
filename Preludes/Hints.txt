@@ -1,0 +1,3 @@
+If tone doesn't contain b or #, it doesn't contain a tonality. Always UNIQUE.
+
+Else switch letter up or down, depending on b or #.

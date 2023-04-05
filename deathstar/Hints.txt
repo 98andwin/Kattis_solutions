@@ -1,0 +1,3 @@
+Start with a vector with every element as 0.
+
+Bitwise OR is your best friend.
