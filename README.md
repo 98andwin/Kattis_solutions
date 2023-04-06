@@ -1,5 +1,8 @@
 # Kattis_solutions
 
+## Author
+Made by Andreas Wingqvist
+
 ## Starting here
 
 In this repo are my solutions and hints for the open kattis problems in C++.
