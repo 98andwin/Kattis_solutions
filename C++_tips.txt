@@ -1,5 +1,9 @@
 Here are some nice special tricks which I find useful in C++ when I'm solving.
 
+
+------------------------------------------------------------------------------------------------------
+
+
 Tip 1:
 
 /***************************************
@@ -15,6 +19,10 @@ int main(){
 ***************************************/
 
 These lines in the beginning might look very weird, but surprisingly it solves one of the bigger headaches with the standard I/O in C++. cin and cout are slow compared to C's equivalent scanf and printf. WIth these two lines it actually makes cin and cout comparably as fast as their counterpart and you can easily save a lot of performance time.
+
+
+------------------------------------------------------------------------------------------------------
+
 
 Tip 2:
 
@@ -46,6 +54,10 @@ int main(){
     function(n);
 }
 
+
+------------------------------------------------------------------------------------------------------
+
+
 Tip 3:
 
 Iterators are a godsend when you wish to go through a vector/map/set or any type of container in order. In fact if you use something other than a vector you pretty much have to use iterators. But one thing I found out is that when it comes to maps and sets, if you iterate through it it will actually output everything in order. No need for having to scour through it all when everything already is ordered inside it (cause of binary tree implementation). And with iterators for maps you can access either the key or value by using (it -> first) for key or (it -> second) for value.
@@ -67,6 +79,10 @@ int main(){
 	Key Anne and its value 4
 	Key Bob and its value 2
 	Key Charlie and its value 5
+
+
+------------------------------------------------------------------------------------------------------
+
 
 Tip 4:
 
