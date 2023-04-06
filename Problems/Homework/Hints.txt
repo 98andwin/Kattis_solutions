@@ -1,0 +1,3 @@
+Use substr() to separate on ';'.
+
+Keep track on '-'.

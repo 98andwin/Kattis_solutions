@@ -1,0 +1,1 @@
+Add the walk and bus times to a sum, then add the wait time (use modulo to figure out how much time is left).

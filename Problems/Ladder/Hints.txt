@@ -1,0 +1,1 @@
+Remeber that <math.h> uses angles in radians, convert with (pi/180).

@@ -1,0 +1,3 @@
+Save all the found knots in a Vector, then remove each knot.
+
+The knot remaining is the answer.

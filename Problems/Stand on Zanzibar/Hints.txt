@@ -1,0 +1,1 @@
+Every turtle born on zanzibar can only be maximum of 2*previous population.

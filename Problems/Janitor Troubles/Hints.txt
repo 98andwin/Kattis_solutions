@@ -1,0 +1,3 @@
+Check the internet for the formula.
+
+Use cout.precision().

@@ -1,0 +1,3 @@
+Compare the all integers for the secret number.
+
+Remember that the first number is the amount of cards pulled.

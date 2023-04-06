@@ -1,0 +1,1 @@
+Keep track on already seen words, use a Vector or Set for example.

@@ -1,0 +1,4 @@
+You can check the amount of S's in each word, they multiply to the amount of S's in the result.
+
+If you have a "Time Limit Exceeded", add all 'S('s first, second the 0, and then all the ')'s.
+Cause if you add in the beginning of the string and not the end, the computer have to create a new string for each concatentation. This can add up very quickly.

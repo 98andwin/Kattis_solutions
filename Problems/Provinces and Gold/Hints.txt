@@ -1,0 +1,3 @@
+Calculate the buying power.
+
+Then check for each the best you can buy.

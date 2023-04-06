@@ -1,0 +1,3 @@
+Keep track on the university names. If it's already found, don't add.
+
+Also only add the 12 best.

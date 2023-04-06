@@ -1,0 +1,1 @@
+The Y-junctions splits and merges, the X-junctions don't add anything.

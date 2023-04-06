@@ -1,0 +1,1 @@
+Keep track on the previous time to calculate the interval.

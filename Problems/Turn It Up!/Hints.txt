@@ -1,0 +1,1 @@
+Make sure it doesn't go over 10 and under 0.

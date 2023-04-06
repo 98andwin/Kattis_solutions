@@ -1,0 +1,1 @@
+Add upp only the negative numbers.

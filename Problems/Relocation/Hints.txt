@@ -1,0 +1,3 @@
+Save each company's location in a Vector.
+
+Then you can query on the index.

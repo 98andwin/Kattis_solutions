@@ -1,0 +1,1 @@
+Subtract modulo % 2 and then divide by 2, continue until it hits zero, then you got your binary number.

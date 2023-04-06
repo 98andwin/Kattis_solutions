@@ -1,0 +1,3 @@
+First figure out each digit depending on the base.
+
+You can use <math.h> log() to find out the first digits.

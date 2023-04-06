@@ -1,0 +1,3 @@
+Create a Vector of size 14 (representing all values), and 1 for each hand dealt.
+
+Then find the max element.
