@@ -1,0 +1,5 @@
+Save a max variable and a Vector for the results.
+
+If it's equal to max, add to the Vector.
+
+If it's larger, create new Vector and max value.

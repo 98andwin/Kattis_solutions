@@ -1,0 +1,3 @@
+Keep track on the last character you found.
+
+Only change and output the character if they differentiate.

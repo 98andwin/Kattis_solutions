@@ -1,0 +1,1 @@
+Use for loops to check every numbers digitsum.

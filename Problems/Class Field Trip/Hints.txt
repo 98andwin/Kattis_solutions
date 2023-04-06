@@ -1,0 +1,5 @@
+Start with the first characters in the two words.
+
+Step through each character and step through the smaller.
+
+When you reach the end of one word, output the rest of the other.

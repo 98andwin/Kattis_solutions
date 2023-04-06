@@ -1,0 +1,3 @@
+Use ascii values to find out which type of character it is.
+
+Convert char to int.

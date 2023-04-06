@@ -1,0 +1,3 @@
+Check if minutes is lower or higher than 45.
+
+If lower, reduce hour by 1. Don't forget to flip to 23 if at 0'th hour.

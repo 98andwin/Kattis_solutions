@@ -1,0 +1,1 @@
+string.substr(i, 2) can be used to get a new string with only size of 2 at starting position i.

@@ -1,0 +1,5 @@
+Use modulo to differentiate Fizz and Buzz.
+
+Check Fizz before Buzz.
+
+Add result to a string.

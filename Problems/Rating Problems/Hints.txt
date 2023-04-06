@@ -1,0 +1,3 @@
+Check how many judges who haven't rated the problem.
+
+Then decide the upper and lower bounds depending on how many haven't voted.

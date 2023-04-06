@@ -1,0 +1,4 @@
+Use Map to create key:value pairs for each score.
+
+For example:
+map <char, int> points = {{'A', 11}, {'K', 4}};

@@ -1,0 +1,1 @@
+Setup a Vector with each factor, then go through each element in the Vector.

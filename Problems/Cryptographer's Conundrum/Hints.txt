@@ -1,0 +1,1 @@
+Modulo % 3 helps for checking each third character.

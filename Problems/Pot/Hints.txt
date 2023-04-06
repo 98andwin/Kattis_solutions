@@ -1,0 +1,3 @@
+Read as a string first. Then check last character for the power.
+
+stoi() converts strings to ints.

@@ -1,0 +1,3 @@
+Calculate area first.
+
+Use cout.precision()

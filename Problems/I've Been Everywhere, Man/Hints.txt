@@ -1,0 +1,5 @@
+Don't add duplicates.
+
+Look through the Vector and see if it's already in there.
+
+Alternatively use a Set and just use .insert(). (Set never contains duplicates)

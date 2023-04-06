@@ -1,0 +1,10 @@
+If the length is odd, it's a fake dark lord.
+
+Only check the middle letters for ().
+
+
+
+
+
+
+Don't look into the eye O.O

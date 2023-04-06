@@ -1,0 +1,1 @@
+All except one power strip have already one outlet occupied. (Otherwise it won't be powered)

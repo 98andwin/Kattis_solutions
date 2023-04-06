@@ -1,0 +1,3 @@
+Add each sum line by line.
+
+Save the max result as a variable and update if found larger.

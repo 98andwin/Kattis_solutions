@@ -1,0 +1,1 @@
+Check each consecutive pair if both are 's'.

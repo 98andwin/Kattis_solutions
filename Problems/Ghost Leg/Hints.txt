@@ -1,0 +1,3 @@
+Put all traversing in a Vector.
+
+Go through all elements in the Vector. If you come upon a crossing, you switch to the other pole.

@@ -1,0 +1,3 @@
+Check if the amount of clicks are odd or even.
+
+Save each pair of integers, you can use .cin twice.
