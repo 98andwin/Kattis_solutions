@@ -1,0 +1,93 @@
+Here are some nice special tricks which I find useful in C++ when I'm solving.
+
+Tip 1:
+
+/***************************************
+
+#include <iostream>
+#include <ios>
+
+int main(){
+    ios_base:sync_with_stdio(false);
+    cin.tie(NULL);
+}
+
+***************************************/
+
+These lines in the beginning might look very weird, but surprisingly it solves one of the bigger headaches with the standard I/O in C++. cin and cout are slow compared to C's equivalent scanf and printf. WIth these two lines it actually makes cin and cout comparably as fast as their counterpart and you can easily save a lot of performance time.
+
+Tip 2:
+
+This is with how references are used in C++. For the newbie who doesn't know, changes to a variable are always changed locally. For example if you pass in a variable x into a function and you modify it inside, you don't change the original x variable but it creates a temp variable of x and changes that. In order for variables to be changed you have to either return it or you send it as a reference instead (or a pointer).
+
+But here is the quirk, you don't actually need to create the reference before you send it in. You can just declare it in the parameter as a reference and anything put in there will be treated as such, even if it wasn't.
+
+
+void function (int& n){
+    n++;
+}
+
+int main(){
+    int n = 1;
+    int& ref = n; // Unneccessary
+
+    function(ref);
+}
+
+//Just do this
+
+void function (int& n){
+    n++;
+}
+
+int main(){
+    int n = 1;
+
+    function(n);
+}
+
+Tip 3:
+
+Iterators are a godsend when you wish to go through a vector/map/set or any type of container in order. In fact if you use something other than a vector you pretty much have to use iterators. But one thing I found out is that when it comes to maps and sets, if you iterate through it it will actually output everything in order. No need for having to scour through it all when everything already is ordered inside it (cause of binary tree implementation). And with iterators for maps you can access either the key or value by using (it -> first) for key or (it -> second) for value.
+
+.begin() gives you the start
+.end() gives you the end, for most this is not the last element but the actual end of the list (sometimes contains the size). So when you reach this you should stop.
+(type)::iterator to initialize.
+
+int main(){
+
+    map<string, int> student_points = {*/Lots of students in form of (name, points)/*};
+    
+    for (map<string, int>::iterator it = student_points.begin(); it != student_points.end(); it++){
+        cout << "Key " << (it -> first) << " and its value " << (it -> second) << '\n';
+    }
+}
+
+#Output Everything in lexicographical order according to the keys.
+	Key Anne and its value 4
+	Key Bob and its value 2
+	Key Charlie and its value 5
+
+Tip 4:
+
+cout.precision(n) is used to output a more precise answer if it's a float. It essentially tells cout to round only to the n'th digit (this does not mean decimals), so with precision(4) pi becomes 3.142 while with precision(7) it becomes 3.141593.
+
+If one wishes to also include trailing zeros, or if you want to round decimals, use the floatfield flag and set it to fixed.
+
+cout.setf(std::ios::fixed, std::ios::floatfield); // this sets cout to print out to the n'th decimal point
+
+Or if you just only print one line and can't be bothered with typing this monster, just output std::fixed.
+
+double pi = 3.14159265;
+int i = 10;
+cout.precision(5);
+cout << pi << std::fixed;
+cout << '\n';
+cout << i << std::fixed;
+cout << '\n';
+cout << i;
+
+#Outputs 
+3.14159
+10.00000
+10
