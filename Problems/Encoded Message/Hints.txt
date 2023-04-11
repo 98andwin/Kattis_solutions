@@ -1,0 +1,1 @@
+Put everything into a matrix first and then decode the message.

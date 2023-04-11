@@ -1,0 +1,5 @@
+Order the courses for easier comparison.
+
+Keep a track on the largest amount of similar combinations.
+
+If none are equal, then they are all equally popular and should output the amount of combinations.

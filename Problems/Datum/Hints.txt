@@ -1,0 +1,3 @@
+Remember how many days there are in each month.
+
+Use modulo % 7 to easily find which day of the week the day is.

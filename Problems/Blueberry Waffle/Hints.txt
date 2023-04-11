@@ -1,0 +1,3 @@
+Double r to get how many seconds it takes to rotate 360 degrees.
+
+(90, 270) = downwards

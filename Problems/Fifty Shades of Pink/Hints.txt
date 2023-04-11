@@ -1,0 +1,3 @@
+Look at every four letter word.
+
+Use substr(i, 4) to create a word with length 4.

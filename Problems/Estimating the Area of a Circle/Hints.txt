@@ -1,0 +1,1 @@
+The fraction between the amount of points inside and the total goes to pi/4.

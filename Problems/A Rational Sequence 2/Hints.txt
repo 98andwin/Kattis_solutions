@@ -1,0 +1,7 @@
+Find the way it takes to reach to the fraction.
+
+Traverse from the original fraction to the root (1/1).
+
+The larger or the nominator and the denominator is the one that gets reduced.
+
+Every child has index 2*i or 2*i+1.
