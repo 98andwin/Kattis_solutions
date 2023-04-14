@@ -1,0 +1,3 @@
+Calculate the time the cannonball takes to land. (Use eq. x(t)).
+
+Don't forget the height margin of 1 meter.

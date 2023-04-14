@@ -1,0 +1,5 @@
+Calculate the distance from one plate to its neighbour.
+
+Cast the characters to integers.
+
+The largest distance is at most 14 letters away, else you go the other way.

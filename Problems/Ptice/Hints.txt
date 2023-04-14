@@ -1,0 +1,3 @@
+Search through each answer and add accouringly to the correct person.
+
+Output all which have the max answer.

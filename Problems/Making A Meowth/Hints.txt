@@ -1,0 +1,11 @@
+Remember that James (You) have to read p amout of pages.
+
+Example:
+
+3 14 2 5
+
+JJM JJM JJM JJM JJM JJM JJ (because it's meowths turn we add him) M
+
+14 Js and 7 Ms.
+
+7*5 + 14*2 = 63

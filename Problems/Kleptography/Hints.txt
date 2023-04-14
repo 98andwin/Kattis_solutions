@@ -1,0 +1,7 @@
+Start from the back.
+
+Calculate the difference by first converting the characters to integers and then subtract.
+
+Put the resulting character in a String or Vector.
+
+After you've used the cleartext, use the result for the remainding characters.

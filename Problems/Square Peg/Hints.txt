@@ -1,0 +1,1 @@
+If the radius is larger than the hypotenuse of the square, it will fit.

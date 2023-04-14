@@ -1,0 +1,3 @@
+Check if the first word is an integer or a string. Try/catch can handle this quite nicely.
+
+Keep track on the sizes in order.

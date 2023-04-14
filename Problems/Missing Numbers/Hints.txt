@@ -1,0 +1,3 @@
+Keep track on the latest integer.
+
+If there is a skip, output all numbers in between the latest and current integer.

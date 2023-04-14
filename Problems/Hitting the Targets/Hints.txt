@@ -1,0 +1,5 @@
+Create a 2D array representing the map of the whole grid.
+
+For each shape, add 1 to all indices that is inside the shape.
+
+Then just output that number for the coordinate.

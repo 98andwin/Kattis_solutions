@@ -1,0 +1,5 @@
+When the last roll in the chain has a whole number of papers to what the second to last roll needs, you have reached the end.
+
+Use modulo to find out the missing length.
+
+Remember that 10^10 can't be contained with integers, you have to use long.

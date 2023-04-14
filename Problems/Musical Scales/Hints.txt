@@ -1,0 +1,5 @@
+Convert each tone to an index.
+
+The major scale goes up by 0, 2, 4, 5, 7, 9, 11 and 12.
+
+If you find a tone that is not inside that scale, it's not a major scale.

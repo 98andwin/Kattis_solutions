@@ -1,0 +1,1 @@
+For each day, output the middle value of all three values.

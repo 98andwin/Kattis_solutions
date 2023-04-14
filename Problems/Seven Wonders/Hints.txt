@@ -1,0 +1,3 @@
+Save how many of each card you have.
+
+The lowest amount of the trio is the amount of sets you have.

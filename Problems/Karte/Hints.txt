@@ -1,0 +1,1 @@
+Have 4 Vectors, one for each suit, to keep track which cards you've seen.

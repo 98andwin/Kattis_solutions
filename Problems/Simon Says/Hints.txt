@@ -1,0 +1,3 @@
+Search the first 10 letters for "Simon says".
+
+If yes, output the rest.

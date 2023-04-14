@@ -1,0 +1,1 @@
+Find the index that contains the smallest number in the sequence.

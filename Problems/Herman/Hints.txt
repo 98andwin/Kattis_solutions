@@ -1,0 +1,3 @@
+In taxicab geometery, circles becomes rhombuses.
+
+Use cout.precision()
