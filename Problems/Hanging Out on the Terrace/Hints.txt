@@ -1,0 +1,3 @@
+Don't let the sum of people get over 4.
+
+Have a counter over each denied group.

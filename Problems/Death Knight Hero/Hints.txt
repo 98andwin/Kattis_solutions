@@ -1,0 +1,3 @@
+Check every pair of characters in the string.
+
+If he "CD", you would hear “OMG NOOB u Chains of Iced than u Death Gripped”.

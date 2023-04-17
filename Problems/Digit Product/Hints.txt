@@ -1,0 +1,1 @@
+Save the number as a string and cast each character back to integers.

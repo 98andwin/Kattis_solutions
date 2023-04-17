@@ -1,0 +1,3 @@
+Delete all valid brackets inside out.
+
+Use a recursive function for the bracket check. If you can't delete any brackets and there are still tokens left, it's invalid.

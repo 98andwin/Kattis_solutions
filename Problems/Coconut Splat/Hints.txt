@@ -1,0 +1,5 @@
+I suggest using a 2D array to keep track on each player.
+
+Go through each generation until only one is left.
+
+You might want to play the game yourself in order to understand how it goes.

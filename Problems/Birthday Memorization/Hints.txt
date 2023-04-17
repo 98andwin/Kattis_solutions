@@ -1,0 +1,3 @@
+Use a Vector to insert the name of that birthday and also its likeness.
+
+Only switch if it has a higher likeness.

@@ -1,0 +1,5 @@
+In a lost district, all votes are wasted.
+
+In a won district, all votes more than the amount of the opposing party's votes + 1 are wasted.
+
+Don't forget to keep track on the total amount of voters.

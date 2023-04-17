@@ -1,0 +1,1 @@
+The winning move will always be involving breaking a branch of length 1.

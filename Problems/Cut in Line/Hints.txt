@@ -1,0 +1,3 @@
+Use a Vector to keep track on the line order.
+
+You can use emplace() or insert() for the cutting action, and erase() for the leaving action.

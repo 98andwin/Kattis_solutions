@@ -1,0 +1,3 @@
+You choose either one of the digits from the two numbers for each position.
+
+8 = 2^3

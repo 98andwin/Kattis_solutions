@@ -1,0 +1,3 @@
+Calculate the difference between the minute and the hour handle.
+
+Step minute by minute until you find the correct answer.

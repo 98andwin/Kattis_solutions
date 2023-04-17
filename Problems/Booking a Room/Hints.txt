@@ -1,0 +1,3 @@
+Since all rooms are distinct, you only need to check how many rooms are booked to check if it's too late.
+
+You can output any room that is available.

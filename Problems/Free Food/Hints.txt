@@ -1,0 +1,3 @@
+Use a boolean Vector and fill in all the days that are free.
+
+Then count all True elements.

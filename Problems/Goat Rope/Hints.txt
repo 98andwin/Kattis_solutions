@@ -1,0 +1,5 @@
+Is the center of the rope alongside the wall?
+
+If yes, calculate the x or y difference to the wall.
+
+If no, calculate the distance to the closest corner.

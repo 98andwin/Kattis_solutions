@@ -1,0 +1,5 @@
+Loop through every character in the guess string.
+
+Having a Vector of size 26 and putting 1 or 0 in each character index might help.
+
+Have a counter incrementing for each wrong guess.

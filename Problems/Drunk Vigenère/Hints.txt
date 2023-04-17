@@ -1,0 +1,3 @@
+Cast the characters to integers.
+
+Use modulo % 26 to deal with overlapping.

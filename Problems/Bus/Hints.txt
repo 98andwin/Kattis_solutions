@@ -1,0 +1,3 @@
+At each busstop the amount of passangers gets halved.
+
+Start from the last busstop and perform everything backwards.

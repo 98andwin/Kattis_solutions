@@ -1,0 +1,3 @@
+Count all distinct parts.
+
+Save all the parts you've seen in a Vector.
