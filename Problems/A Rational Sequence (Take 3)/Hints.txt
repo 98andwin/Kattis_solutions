@@ -1,0 +1,3 @@
+Find the route it takes to reach the index N.
+
+Is it odd or not?

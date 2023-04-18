@@ -1,0 +1,3 @@
+Order the integers in decending order.
+
+Then each person takes every second integer.

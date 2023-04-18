@@ -1,0 +1,3 @@
+Use calculus to solve for the volume of a cut cylinder. Or find the volume formula online.
+
+Use cout.precision().

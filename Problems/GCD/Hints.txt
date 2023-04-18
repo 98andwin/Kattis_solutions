@@ -1,0 +1,1 @@
+Use Euklides algorithm to find the GCD.

@@ -1,0 +1,1 @@
+Add each integer to a counting sum.

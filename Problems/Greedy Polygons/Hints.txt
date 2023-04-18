@@ -1,0 +1,3 @@
+The corners expansions will add up to a circle.
+
+Look up the area of a regular n-polygon, "https://en.wikipedia.org/wiki/Polygon"

@@ -1,0 +1,1 @@
+If you switch each bit 2 times you get the original message.

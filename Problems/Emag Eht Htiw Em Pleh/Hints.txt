@@ -1,0 +1,5 @@
+Locate the "," in the string.
+
+Put all positions in a 2D array.
+
+When printing out, you can use (row+column) % 2 to easily find out if it should be filled with "..." or ":::".

@@ -1,0 +1,7 @@
+Since the graph is connected, there is always one path to each city.
+
+The first path bridges two cities.
+
+The second path bridges one city to the other ones.
+
+The third path bridges another city to those ones, and so on.

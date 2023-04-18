@@ -1,0 +1,5 @@
+Set up a 2D array with the code.
+
+Keep track on where the previous number was located.
+
+Use cout.precision().

@@ -1,0 +1,5 @@
+Since there are at most 100 kittens, you can use a Vector of that size.
+
+Suppose each index is the branch, put its parent as the element.
+
+Then you can just traverse the Vector by jumping from index to index in order to find the path.

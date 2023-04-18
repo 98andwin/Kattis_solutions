@@ -1,0 +1,3 @@
+Use BFS to go through all possible places it can jump.
+
+Once it has jumped to a square, mark it as visited.

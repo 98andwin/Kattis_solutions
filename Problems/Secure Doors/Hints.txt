@@ -1,0 +1,1 @@
+Have a Vector with all strings that you've seen.

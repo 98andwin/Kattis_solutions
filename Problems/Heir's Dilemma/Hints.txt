@@ -1,0 +1,3 @@
+Go through all possible combinations.
+
+If it contains two or more of the same digit, immediatly skip.

@@ -1,0 +1,3 @@
+Remember to use long variable for this one.
+
+If you want to speedrun you can check if log2(n) is an integer, then you can end right there (the finishing sequence are all the powers of 2).

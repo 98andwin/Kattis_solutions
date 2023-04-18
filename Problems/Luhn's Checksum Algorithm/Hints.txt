@@ -1,0 +1,3 @@
+Remeber that a number larger than 10 will be converted to the last digit + 1.
+
+Use modulo % 10 to check the answer.

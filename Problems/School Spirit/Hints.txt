@@ -1,0 +1,1 @@
+When calculating the average new score, try calculating the new score by hand with only a few students.

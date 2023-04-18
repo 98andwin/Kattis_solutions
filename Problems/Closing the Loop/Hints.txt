@@ -1,0 +1,6 @@
+Keep track on how many blue and red segments there are.
+
+Add the largest pieces first.
+
+If you want to save space, have a Vector of size 100 to keep track on the rope lengths.
+For each length, you add 1 to that index.

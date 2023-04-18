@@ -1,0 +1,3 @@
+Order the numbers.
+
+Use the difference to find out which number is missing.

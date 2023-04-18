@@ -1,0 +1,1 @@
+Check if d is less or equal than the k integer.

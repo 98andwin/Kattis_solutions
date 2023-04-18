@@ -1,0 +1,1 @@
+Use substr(i, text.size()/3) to divide into three equal pieces.

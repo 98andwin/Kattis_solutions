@@ -1,0 +1,3 @@
+Save the heights to a Vector.
+
+For each case, check which height each block requires. (Remember to check all four directions)

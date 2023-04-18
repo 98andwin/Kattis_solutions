@@ -1,0 +1,3 @@
+Reverse the string or go backwards.
+
+Cast characters to integers for easier "rotation".

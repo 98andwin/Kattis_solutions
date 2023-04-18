@@ -1,0 +1,3 @@
+Save the previous value as a variable.
+
+Update max when larger is found.
