@@ -1,0 +1,3 @@
+The algorithm is bubble sort.
+
+Just output the whole list when you perform a switch.

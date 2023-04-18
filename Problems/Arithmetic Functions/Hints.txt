@@ -1,0 +1,1 @@
+Use <math.h> pow() for the power funciton.

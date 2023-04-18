@@ -1,0 +1,1 @@
+Check all pairs of characters in each word.
