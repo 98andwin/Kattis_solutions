@@ -1,0 +1,5 @@
+Save all the positions of the spaces, including 0 and the start.
+
+Loop through all the positions and save the lengths.
+
+Since the width is 100 in size, you can have a Vector with size 100 to save the lengths.

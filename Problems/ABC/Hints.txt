@@ -1,0 +1,3 @@
+Order the numbers in a Vector.
+
+Then just output the index corresponding to the letter.

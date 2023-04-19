@@ -1,0 +1,3 @@
+Save the first number you encounter.
+
+Update the first number when you found an answer.

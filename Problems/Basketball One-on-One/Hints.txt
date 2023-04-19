@@ -1,0 +1,5 @@
+Add the points one by one.
+
+Check if someone reaches 11.
+
+Don't forget that if both are equal or higher than 10, you have to win by 2.

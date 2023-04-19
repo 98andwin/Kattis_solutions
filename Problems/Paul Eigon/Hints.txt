@@ -1,0 +1,1 @@
+Cast the float to integer, this will automatically round it up to the nearest integer.

@@ -1,0 +1,3 @@
+You can utilize modulo % 100 to see if it's above 50 or not for the rounding.
+
+Remember that all numbers below 99 will round up to 99.

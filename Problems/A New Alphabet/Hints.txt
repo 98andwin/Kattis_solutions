@@ -1,0 +1,3 @@
+Create a Map with the new alphabet.
+
+Use "\\" in order to able to use '\' as a character.

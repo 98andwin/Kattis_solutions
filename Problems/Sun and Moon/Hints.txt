@@ -1,0 +1,3 @@
+Put the moon first in its 0 position (adjust sun accordingly).
+
+Then you keep on adding how many years it takes for the moon to complete a full circuit until the sun reaches its 0 position.
