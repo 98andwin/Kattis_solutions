@@ -9,7 +9,7 @@ namespace fs = filesystem;
 string markdownstring_generator (string& problem_name){
 
     for (string::iterator it = problem_name.end()-1; it >= problem_name.begin(); it--){
-        // Erase everything behind and including the last '/'
+        // Erase everything before and including the last '/'
         if (*it == '/'){
             problem_name.erase(problem_name.begin(), it+1);
             break;
@@ -35,7 +35,16 @@ string markdownstring_generator (string& problem_name){
 
 
 int main(){
-    string path = "/Users/andreaswingqvist/Kattis_solutions/Problems";
+    // Finding the path name
+    string path = fs::current_path();
+    for (string::iterator it = path.end()-1; it >= path.begin(); it--){
+        // Erase everything after and including the last '/'
+        if (*it == '/'){
+            path.erase(it, path.end());
+            break;
+        }
+    }
+    path += "/Problems";
     auto file_it = fs::directory_iterator(path);
 
     ofstream myfile;
@@ -69,7 +78,7 @@ int main(){
         }
 
         for (string::iterator it = cpp_name.end()-1; it >= cpp_name.begin(); it--){
-            // Erase everything behind and including the last '/'
+            // Erase everything before and including the last '/'
             if (*it == '/'){
                 cpp_name.erase(cpp_name.begin(), it+1);
                 break;
