@@ -15,12 +15,17 @@ This was my way of learning C++ from scratch, doing all the easy problems on the
 ### README.md
 Well, you made it here. In this file there is info about this repo.
 
-### Folder_placeholder
+### Problems/...
 Every folder in this repo contains a **.cpp** file with my solution. Most folders also contain a compiled **.exec** executable which you can use and verify if trying on your own.
 
 The folder also have a **Hints.txt** which contains hints to that certain problem if one just wishes to keep working on the problem without having to look at the solution and getting spoiled in the process.
 
 Naming convension is every folders name is the name of the problem, and every filename is the default name of the file for that problem. For example the problem **Bacon, Eggs and Spam** has the filename *baconeggsandspam*, as this is the default name given by Kattis.
+
+### Markdown generator/...
+This folder includes an **.md** with all my solutions and hints for every problem that I've currently solved.
+
+It also contains a script named **problemslistgen** executable (script from **problemslistgen.cpp**) which is used to generate the .md file. It searches through the git directory and creates the links for solutions and hints for eeach problem.
 
 ## Fair use
 While this repo is intended to help people understand some of the problems and show my provess, this is my work that I've made myself. If you decide to use any of the files of the repo, you are allowed to do so as long as you reference it back to this repo. (aka. don't be an ass and give credit where credit is due. I spent time putting this thing up).
