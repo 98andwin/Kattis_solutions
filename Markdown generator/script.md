@@ -1,287 +1,287 @@
 | First | Second |
 | :--: | :--: |
 |Statistics|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Statistics/Hints.txt)|
-|Star%20Arrangements|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Star%20Arrangements/Hints.txt)|
-|Jewelry%20Box|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jewelry%20Box/Hints.txt)|
-|The%20Key%20to%20Cryptography|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Key%20to%20Cryptography/Hints.txt)|
-|Course%20Scheudling|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Course%20Scheudling/Hints.txt)|
+|Star Arrangements|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Star%20Arrangements/Hints.txt)|
+|Jewelry Box|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jewelry%20Box/Hints.txt)|
+|The Key to Cryptography|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Key%20to%20Cryptography/Hints.txt)|
+|Course Scheudling|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Course%20Scheudling/Hints.txt)|
 |Betting|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Betting/Hints.txt)|
-|Quick%20Brown%20Fox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quick%20Brown%20Fox/Hints.txt)|
+|Quick Brown Fox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quick%20Brown%20Fox/Hints.txt)|
 |Riječi|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Riječi/Hints.txt)|
 |ABC|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/ABC/Hints.txt)|
 |Skocimis|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Skocimis/Hints.txt)|
-|Drunk%20Vigenère|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Drunk%20Vigenère/Hints.txt)|
+|Drunk Vigenère|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Drunk%20Vigenère/Hints.txt)|
 |Arrangement|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Arrangement/Hints.txt)|
-|Flexible%20Spaces|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Flexible%20Spaces/Hints.txt)|
-|School%20Spirit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/School%20Spirit/Hints.txt)|
-|Goat%20Rope|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Goat%20Rope/Hints.txt)|
+|Flexible Spaces|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Flexible%20Spaces/Hints.txt)|
+|School Spirit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/School%20Spirit/Hints.txt)|
+|Goat Rope|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Goat%20Rope/Hints.txt)|
 |2048|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/2048/Hints.txt)|
-|Pizza%20Crust|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pizza%20Crust/Hints.txt)|
-|Das%20Blinkenlights|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Das%20Blinkenlights/Hints.txt)|
-|Class%20Field%20Trip|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Class%20Field%20Trip/Hints.txt)|
-|Coconut%20Splat|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Coconut%20Splat/Hints.txt)|
-|Restaurant%20Opening|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Restaurant%20Opening/Hints.txt)|
+|Pizza Crust|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pizza%20Crust/Hints.txt)|
+|Das Blinkenlights|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Das%20Blinkenlights/Hints.txt)|
+|Class Field Trip|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Class%20Field%20Trip/Hints.txt)|
+|Coconut Splat|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Coconut%20Splat/Hints.txt)|
+|Restaurant Opening|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Restaurant%20Opening/Hints.txt)|
 |Conformity|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Conformity/Hints.txt)|
-|Compound%20Words|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Compound%20Words/Hints.txt)|
-|Hissing%20Microphone|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hissing%20Microphone/Hints.txt)|
-|Quality-Assured%20Life-Year|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quality-Assured%20Life-Year/Hints.txt)|
-|Provinces%20and%20Gold|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Provinces%20and%20Gold/Hints.txt)|
+|Compound Words|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Compound%20Words/Hints.txt)|
+|Hissing Microphone|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hissing%20Microphone/Hints.txt)|
+|Quality-Assured Life-Year|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quality-Assured%20Life-Year/Hints.txt)|
+|Provinces and Gold|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Provinces%20and%20Gold/Hints.txt)|
 |SMIL|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/SMIL/Hints.txt)|
-|Tower%20Construction|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tower%20Construction/Hints.txt)|
-|Yin%20and%20Yang%20Stones|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Yin%20and%20Yang%20Stones/Hints.txt)|
-|Racing%20Around%20the%20Alphabet|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Racing%20Around%20the%20Alphabet/Hints.txt)|
-|Reversed%20Binary%20Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Reversed%20Binary%20Numbers/Hints.txt)|
-|A%20Real%20Challenge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Real%20Challenge/Hints.txt)|
-|Divvying%20Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Divvying%20Up/Hints.txt)|
-|Making%20A%20Meowth|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Making%20A%20Meowth/Hints.txt)|
-|Bracket%20Matching|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bracket%20Matching/Hints.txt)|
-|Jumbo%20Javelin|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jumbo%20Javelin/Hints.txt)|
-|Closing%20the%20Loop|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Closing%20the%20Loop/Hints.txt)|
-|Building%20Pyramids|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Building%20Pyramids/Hints.txt)|
+|Tower Construction|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tower%20Construction/Hints.txt)|
+|Yin and Yang Stones|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Yin%20and%20Yang%20Stones/Hints.txt)|
+|Racing Around the Alphabet|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Racing%20Around%20the%20Alphabet/Hints.txt)|
+|Reversed Binary Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Reversed%20Binary%20Numbers/Hints.txt)|
+|A Real Challenge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Real%20Challenge/Hints.txt)|
+|Divvying Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Divvying%20Up/Hints.txt)|
+|Making A Meowth|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Making%20A%20Meowth/Hints.txt)|
+|Bracket Matching|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bracket%20Matching/Hints.txt)|
+|Jumbo Javelin|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jumbo%20Javelin/Hints.txt)|
+|Closing the Loop|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Closing%20the%20Loop/Hints.txt)|
+|Building Pyramids|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Building%20Pyramids/Hints.txt)|
 |Grading|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Grading/Hints.txt)|
 |.DS_Store|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/.DS_Store/Hints.txt)|
 |Tri|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tri/Hints.txt)|
-|Rectangle%20Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Rectangle%20Area/Hints.txt)|
-|Chanukah%20Challenge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Chanukah%20Challenge/Hints.txt)|
-|Paul%20Eigon|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Paul%20Eigon/Hints.txt)|
-|Eeny%20Meeny|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Eeny%20Meeny/Hints.txt)|
-|Mixed%20Fractions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mixed%20Fractions/Hints.txt)|
+|Rectangle Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Rectangle%20Area/Hints.txt)|
+|Chanukah Challenge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Chanukah%20Challenge/Hints.txt)|
+|Paul Eigon|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Paul%20Eigon/Hints.txt)|
+|Eeny Meeny|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Eeny%20Meeny/Hints.txt)|
+|Mixed Fractions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mixed%20Fractions/Hints.txt)|
 |Prozor|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Prozor/Hints.txt)|
-|Knight%20Packing|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Knight%20Packing/Hints.txt)|
+|Knight Packing|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Knight%20Packing/Hints.txt)|
 |Cetvrta|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cetvrta/Hints.txt)|
-|Alphabet%20Spam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Alphabet%20Spam/Hints.txt)|
-|Planting%20Trees|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Planting%20Trees/Hints.txt)|
-|Synchronizing%20Lists|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Synchronizing%20Lists/Hints.txt)|
-|Video%20Speedup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Video%20Speedup/Hints.txt)|
+|Alphabet Spam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Alphabet%20Spam/Hints.txt)|
+|Planting Trees|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Planting%20Trees/Hints.txt)|
+|Synchronizing Lists|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Synchronizing%20Lists/Hints.txt)|
+|Video Speedup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Video%20Speedup/Hints.txt)|
 |N-sum|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/N-sum/Hints.txt)|
 |Timebomb|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Timebomb/Hints.txt)|
 |99problems2|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/99problems2/Hints.txt)|
 |Bela|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bela/Hints.txt)|
-|Lost%20Lineup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Lost%20Lineup/Hints.txt)|
+|Lost Lineup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Lost%20Lineup/Hints.txt)|
 |Deathstar|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Deathstar/Hints.txt)|
-|Encoded%20Message|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Encoded%20Message/Hints.txt)|
-|Musical%20Scales|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Musical%20Scales/Hints.txt)|
-|Poker%20Hand|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Poker%20Hand/Hints.txt)|
-|A%20Rational%20Sequence%20(Take%203)|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Rational%20Sequence%20(Take%203)/Hints.txt)|
-|Take%20Two%20Stones|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Take%20Two%20Stones/Hints.txt)|
-|Emag%20Eht%20Htiw%20Em%20Pleh|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Emag%20Eht%20Htiw%20Em%20Pleh/Hints.txt)|
-|Stuck%20In%20A%20Time%20Loop|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stuck%20In%20A%20Time%20Loop/Hints.txt)|
-|Detailed%20Differences|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Detailed%20Differences/Hints.txt)|
+|Encoded Message|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Encoded%20Message/Hints.txt)|
+|Musical Scales|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Musical%20Scales/Hints.txt)|
+|Poker Hand|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Poker%20Hand/Hints.txt)|
+|A Rational Sequence (Take 3)|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Rational%20Sequence%20(Take%203)/Hints.txt)|
+|Take Two Stones|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Take%20Two%20Stones/Hints.txt)|
+|Emag Eht Htiw Em Pleh|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Emag%20Eht%20Htiw%20Em%20Pleh/Hints.txt)|
+|Stuck In A Time Loop|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stuck%20In%20A%20Time%20Loop/Hints.txt)|
+|Detailed Differences|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Detailed%20Differences/Hints.txt)|
 |IsItHalloween.com|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/IsItHalloween.com/Hints.txt)|
-|Pervasive%20Heart%20Monitor|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pervasive%20Heart%20Monitor/Hints.txt)|
-|Arm%20Coordination|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Arm%20Coordination/Hints.txt)|
-|Quadrant%20Selection|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quadrant%20Selection/Hints.txt)|
-|Sort%20Two%20Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sort%20Two%20Numbers/Hints.txt)|
-|Square%20Peg|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Square%20Peg/Hints.txt)|
-|Last%20Factorial%20Digit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Last%20Factorial%20Digit/Hints.txt)|
+|Pervasive Heart Monitor|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pervasive%20Heart%20Monitor/Hints.txt)|
+|Arm Coordination|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Arm%20Coordination/Hints.txt)|
+|Quadrant Selection|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quadrant%20Selection/Hints.txt)|
+|Sort Two Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sort%20Two%20Numbers/Hints.txt)|
+|Square Peg|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Square%20Peg/Hints.txt)|
+|Last Factorial Digit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Last%20Factorial%20Digit/Hints.txt)|
 |Zamka|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Zamka/Hints.txt)|
-|Hydra's%20Heads|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hydra's%20Heads/Hints.txt)|
-|CPR%20Number|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/CPR%20Number/Hints.txt)|
-|Tai's%20formula|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tai's%20formula/Hints.txt)|
-|Undead%20or%20Alive|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Undead%20or%20Alive/Hints.txt)|
-|Nasty%20Hacks|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Nasty%20Hacks/Hints.txt)|
-|Finding%20An%20A|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Finding%20An%20A/Hints.txt)|
-|Sun%20and%20Moon|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sun%20and%20Moon/Hints.txt)|
-|Methodic%20Multiplication|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Methodic%20Multiplication/Hints.txt)|
-|Help%20a%20PhD%20candidate%20out!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Help%20a%20PhD%20candidate%20out!/Hints.txt)|
-|Seven%20Wonders|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Seven%20Wonders/Hints.txt)|
-|Digit%20Product|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Digit%20Product/Hints.txt)|
-|Erase%20Securely|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Erase%20Securely/Hints.txt)|
-|Logic%20Functions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Logic%20Functions/Hints.txt)|
+|Hydra's Heads|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hydra's%20Heads/Hints.txt)|
+|CPR Number|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/CPR%20Number/Hints.txt)|
+|Tai's formula|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tai's%20formula/Hints.txt)|
+|Undead or Alive|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Undead%20or%20Alive/Hints.txt)|
+|Nasty Hacks|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Nasty%20Hacks/Hints.txt)|
+|Finding An A|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Finding%20An%20A/Hints.txt)|
+|Sun and Moon|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sun%20and%20Moon/Hints.txt)|
+|Methodic Multiplication|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Methodic%20Multiplication/Hints.txt)|
+|Help a PhD candidate out!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Help%20a%20PhD%20candidate%20out!/Hints.txt)|
+|Seven Wonders|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Seven%20Wonders/Hints.txt)|
+|Digit Product|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Digit%20Product/Hints.txt)|
+|Erase Securely|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Erase%20Securely/Hints.txt)|
+|Logic Functions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Logic%20Functions/Hints.txt)|
 |Tarifa|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tarifa/Hints.txt)|
 |Datum|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Datum/Hints.txt)|
 |Tetris|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tetris/Hints.txt)|
 |Ptice|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ptice/Hints.txt)|
 |Kornislav|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Kornislav/Hints.txt)|
-|Solving%20for%20Carrots|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Solving%20for%20Carrots/Hints.txt)|
-|Janitor%20Troubles|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Janitor%20Troubles/Hints.txt)|
-|Bounding%20Robots|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bounding%20Robots/Hints.txt)|
+|Solving for Carrots|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Solving%20for%20Carrots/Hints.txt)|
+|Janitor Troubles|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Janitor%20Troubles/Hints.txt)|
+|Bounding Robots|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bounding%20Robots/Hints.txt)|
 |Östgötska|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Östgötska/Hints.txt)|
-|Blueberry%20Waffle|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Blueberry%20Waffle/Hints.txt)|
-|Digit%20Swap|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Digit%20Swap/Hints.txt)|
+|Blueberry Waffle|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Blueberry%20Waffle/Hints.txt)|
+|Digit Swap|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Digit%20Swap/Hints.txt)|
 |Pokechat|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pokechat/Hints.txt)|
 |Kemija|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Kemija/Hints.txt)|
 |Prva|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Prva/Hints.txt)|
-|Cut%20in%20Line|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cut%20in%20Line/Hints.txt)|
+|Cut in Line|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cut%20in%20Line/Hints.txt)|
 |Volim|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Volim/Hints.txt)|
-|Sort%20of%20Sorting|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sort%20of%20Sorting/Hints.txt)|
-|The%20Last%20Problem|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Last%20Problem/Hints.txt)|
+|Sort of Sorting|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sort%20of%20Sorting/Hints.txt)|
+|The Last Problem|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Last%20Problem/Hints.txt)|
 |Sok|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sok/Hints.txt)|
 |Heliocentric|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Heliocentric/Hints.txt)|
 |Hangman|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hangman/Hints.txt)|
-|Double%20Password|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Double%20Password/Hints.txt)|
-|Secure%20Doors|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Secure%20Doors/Hints.txt)|
+|Double Password|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Double%20Password/Hints.txt)|
+|Secure Doors|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Secure%20Doors/Hints.txt)|
 |Two-sum|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Two-sum/Hints.txt)|
 |Bijele|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bijele/Hints.txt)|
-|Boat%20Parts|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Boat%20Parts/Hints.txt)|
-|Hitting%20the%20Targets|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hitting%20the%20Targets/Hints.txt)|
+|Boat Parts|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Boat%20Parts/Hints.txt)|
+|Hitting the Targets|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hitting%20the%20Targets/Hints.txt)|
 |Mjehuric|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mjehuric/Hints.txt)|
-|Cut%20the%20Negativity|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cut%20the%20Negativity/Hints.txt)|
+|Cut the Negativity|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cut%20the%20Negativity/Hints.txt)|
 |Islands|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Islands/Hints.txt)|
 |Bus|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bus/Hints.txt)|
-|Honour%20Thy%20(Apaxian)%20Parent|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Honour%20Thy%20(Apaxian)%20Parent/Hints.txt)|
-|No%20Duplicates|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/No%20Duplicates/Hints.txt)|
-|Sum%20Squared%20Digits%20Function|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sum%20Squared%20Digits%20Function/Hints.txt)|
-|Forced%20Choice|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Forced%20Choice/Hints.txt)|
-|Final%20Exam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Final%20Exam/Hints.txt)|
-|Secret%20Message|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Secret%20Message/Hints.txt)|
+|Honour Thy (Apaxian) Parent|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Honour%20Thy%20(Apaxian)%20Parent/Hints.txt)|
+|No Duplicates|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/No%20Duplicates/Hints.txt)|
+|Sum Squared Digits Function|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sum%20Squared%20Digits%20Function/Hints.txt)|
+|Forced Choice|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Forced%20Choice/Hints.txt)|
+|Final Exam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Final%20Exam/Hints.txt)|
+|Secret Message|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Secret%20Message/Hints.txt)|
 |Ladder|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ladder/Hints.txt)|
-|Cryptographer's%20Conundrum|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cryptographer's%20Conundrum/Hints.txt)|
+|Cryptographer's Conundrum|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cryptographer's%20Conundrum/Hints.txt)|
 |Server|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Server/Hints.txt)|
 |Spavanac|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Spavanac/Hints.txt)|
-|Ultimate%20Binary%20Watch|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ultimate%20Binary%20Watch/Hints.txt)|
-|Number%20Fun|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Number%20Fun/Hints.txt)|
+|Ultimate Binary Watch|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ultimate%20Binary%20Watch/Hints.txt)|
+|Number Fun|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Number%20Fun/Hints.txt)|
 |GCD|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/GCD/Hints.txt)|
-|Shattered%20Cake|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Shattered%20Cake/Hints.txt)|
+|Shattered Cake|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Shattered%20Cake/Hints.txt)|
 |Beavergnaw|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Beavergnaw/Hints.txt)|
 |Jabuke|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jabuke/Hints.txt)|
 |Sibice|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sibice/Hints.txt)|
-|DRM%20Messages|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/DRM%20Messages/Hints.txt)|
-|Add%20Two%20Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Add%20Two%20Numbers/Hints.txt)|
-|Stacking%20Cups|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stacking%20Cups/Hints.txt)|
-|Triple%20Texting|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Triple%20Texting/Hints.txt)|
-|Early%20Winter|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Early%20Winter/Hints.txt)|
+|DRM Messages|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/DRM%20Messages/Hints.txt)|
+|Add Two Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Add%20Two%20Numbers/Hints.txt)|
+|Stacking Cups|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stacking%20Cups/Hints.txt)|
+|Triple Texting|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Triple%20Texting/Hints.txt)|
+|Early Winter|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Early%20Winter/Hints.txt)|
 |GCVWR|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/GCVWR/Hints.txt)|
-|Different%20Distances|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Different%20Distances/Hints.txt)|
-|Haughty%20Cuisine|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Haughty%20Cuisine/Hints.txt)|
+|Different Distances|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Different%20Distances/Hints.txt)|
+|Haughty Cuisine|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Haughty%20Cuisine/Hints.txt)|
 |Reverse|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Reverse/Hints.txt)|
-|Hiding%20Places|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hiding%20Places/Hints.txt)|
-|Dice%20Game|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Dice%20Game/Hints.txt)|
-|Hailstone%20Sequences|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hailstone%20Sequences/Hints.txt)|
+|Hiding Places|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hiding%20Places/Hints.txt)|
+|Dice Game|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Dice%20Game/Hints.txt)|
+|Hailstone Sequences|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hailstone%20Sequences/Hints.txt)|
 |Eligibility|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Eligibility/Hints.txt)|
-|Arithmetic%20Functions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Arithmetic%20Functions/Hints.txt)|
-|Quick%20Estimates|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quick%20Estimates/Hints.txt)|
-|A%20Rational%20Sequence%202|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Rational%20Sequence%202/Hints.txt)|
-|Expected%20Earnings|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Expected%20Earnings/Hints.txt)|
-|The%20Easiest%20Problem%20Is%20This%20One|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Easiest%20Problem%20Is%20This%20One/Hints.txt)|
+|Arithmetic Functions|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Arithmetic%20Functions/Hints.txt)|
+|Quick Estimates|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Quick%20Estimates/Hints.txt)|
+|A Rational Sequence 2|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Rational%20Sequence%202/Hints.txt)|
+|Expected Earnings|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Expected%20Earnings/Hints.txt)|
+|The Easiest Problem Is This One|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Easiest%20Problem%20Is%20This%20One/Hints.txt)|
 |Apaxiaaaaaaaaaaaans!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Apaxiaaaaaaaaaaaans!/Hints.txt)|
-|Harshad%20Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Harshad%20Numbers/Hints.txt)|
-|License%20to%20Launch|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/License%20to%20Launch/Hints.txt)|
-|Eye%20of%20Sauron|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Eye%20of%20Sauron/Hints.txt)|
-|Left%20Beehind|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Left%20Beehind/Hints.txt)|
+|Harshad Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Harshad%20Numbers/Hints.txt)|
+|License to Launch|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/License%20to%20Launch/Hints.txt)|
+|Eye of Sauron|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Eye%20of%20Sauron/Hints.txt)|
+|Left Beehind|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Left%20Beehind/Hints.txt)|
 |Gerrymandering|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Gerrymandering/Hints.txt)|
-|Roaming%20Romans|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Roaming%20Romans/Hints.txt)|
-|Building%20Highways|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Building%20Highways/Hints.txt)|
-|ICPC%20Awards|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/ICPC%20Awards/Hints.txt)|
-|Identifying%20Map%20Tiles|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Identifying%20Map%20Tiles/Hints.txt)|
-|Speed%20Limit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Speed%20Limit/Hints.txt)|
-|Dice%20Cup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Dice%20Cup/Hints.txt)|
-|Coffee%20Cup%20Combo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Coffee%20Cup%20Combo/Hints.txt)|
+|Roaming Romans|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Roaming%20Romans/Hints.txt)|
+|Building Highways|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Building%20Highways/Hints.txt)|
+|ICPC Awards|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/ICPC%20Awards/Hints.txt)|
+|Identifying Map Tiles|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Identifying%20Map%20Tiles/Hints.txt)|
+|Speed Limit|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Speed%20Limit/Hints.txt)|
+|Dice Cup|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Dice%20Cup/Hints.txt)|
+|Coffee Cup Combo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Coffee%20Cup%20Combo/Hints.txt)|
 |Pot|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pot/Hints.txt)|
-|Which%20is%20Greater?|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Which%20is%20Greater?/Hints.txt)|
+|Which is Greater?|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Which%20is%20Greater?/Hints.txt)|
 |Trik|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Trik/Hints.txt)|
-|Estimating%20the%20Area%20of%20a%20Circle|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Estimating%20the%20Area%20of%20a%20Circle/Hints.txt)|
-|Just%20A%20Minute|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Just%20A%20Minute/Hints.txt)|
-|Counting%20Clauses|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Counting%20Clauses/Hints.txt)|
-|Title%20Cost|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Title%20Cost/Hints.txt)|
-|Basketball%20One-on-One|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Basketball%20One-on-One/Hints.txt)|
+|Estimating the Area of a Circle|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Estimating%20the%20Area%20of%20a%20Circle/Hints.txt)|
+|Just A Minute|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Just%20A%20Minute/Hints.txt)|
+|Counting Clauses|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Counting%20Clauses/Hints.txt)|
+|Title Cost|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Title%20Cost/Hints.txt)|
+|Basketball One-on-One|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Basketball%20One-on-One/Hints.txt)|
 |Pet|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Pet/Hints.txt)|
-|Missing%20Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Missing%20Numbers/Hints.txt)|
+|Missing Numbers|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Missing%20Numbers/Hints.txt)|
 |Homework|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Homework/Hints.txt)|
-|Reverse%20Rot|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Reverse%20Rot/Hints.txt)|
+|Reverse Rot|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Reverse%20Rot/Hints.txt)|
 |Avion|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Avion/Hints.txt)|
 |Križaljka|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Križaljka/Hints.txt)|
-|Falling%20Apart|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Falling%20Apart/Hints.txt)|
-|Echo%20Echo%20Echo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Echo%20Echo%20Echo/Hints.txt)|
-|Mosquito%20Multiplication|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mosquito%20Multiplication/Hints.txt)|
+|Falling Apart|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Falling%20Apart/Hints.txt)|
+|Echo Echo Echo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Echo%20Echo%20Echo/Hints.txt)|
+|Mosquito Multiplication|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mosquito%20Multiplication/Hints.txt)|
 |Relocation|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Relocation/Hints.txt)|
-|Transit%20Woes|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Transit%20Woes/Hints.txt)|
-|ACM%20Contest%20Scoring|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/ACM%20Contest%20Scoring/Hints.txt)|
-|Grass%20Seed%20Inc.|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Grass%20Seed%20Inc./Hints.txt)|
+|Transit Woes|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Transit%20Woes/Hints.txt)|
+|ACM Contest Scoring|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/ACM%20Contest%20Scoring/Hints.txt)|
+|Grass Seed Inc.|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Grass%20Seed%20Inc./Hints.txt)|
 |Herman|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Herman/Hints.txt)|
 |Filip|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Filip/Hints.txt)|
-|Radio%20Commercials|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Radio%20Commercials/Hints.txt)|
-|Flying%20Safely|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Flying%20Safely/Hints.txt)|
-|A%20Different%20Problem|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Different%20Problem/Hints.txt)|
+|Radio Commercials|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Radio%20Commercials/Hints.txt)|
+|Flying Safely|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Flying%20Safely/Hints.txt)|
+|A Different Problem|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20Different%20Problem/Hints.txt)|
 |Stopwatch|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stopwatch/Hints.txt)|
-|The%20Amazing%20Human%20Cannonball|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Amazing%20Human%20Cannonball/Hints.txt)|
+|The Amazing Human Cannonball|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Amazing%20Human%20Cannonball/Hints.txt)|
 |Aaah!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Aaah!/Hints.txt)|
-|Unlock%20Pattern|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Unlock%20Pattern/Hints.txt)|
-|Joint%20Jog%20Jam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Joint%20Jog%20Jam/Hints.txt)|
-|Hello%20World!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hello%20World!/Hints.txt)|
-|The%20Owl%20and%20the%20Fox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Owl%20and%20the%20Fox/Hints.txt)|
-|Card%20Trick|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Card%20Trick/Hints.txt)|
-|Convex%20Polygon%20Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Convex%20Polygon%20Area/Hints.txt)|
-|Death%20Knight%20Hero|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Death%20Knight%20Hero/Hints.txt)|
-|Turn%20It%20Up!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Turn%20It%20Up!/Hints.txt)|
+|Unlock Pattern|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Unlock%20Pattern/Hints.txt)|
+|Joint Jog Jam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Joint%20Jog%20Jam/Hints.txt)|
+|Hello World!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hello%20World!/Hints.txt)|
+|The Owl and the Fox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Owl%20and%20the%20Fox/Hints.txt)|
+|Card Trick|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Card%20Trick/Hints.txt)|
+|Convex Polygon Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Convex%20Polygon%20Area/Hints.txt)|
+|Death Knight Hero|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Death%20Knight%20Hero/Hints.txt)|
+|Turn It Up!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Turn%20It%20Up!/Hints.txt)|
 |Zoom|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Zoom/Hints.txt)|
-|Stand%20on%20Zanzibar|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stand%20on%20Zanzibar/Hints.txt)|
-|Piece%20of%20Cake!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Piece%20of%20Cake!/Hints.txt)|
-|Symmetric%20Order|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Symmetric%20Order/Hints.txt)|
+|Stand on Zanzibar|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Stand%20on%20Zanzibar/Hints.txt)|
+|Piece of Cake!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Piece%20of%20Cake!/Hints.txt)|
+|Symmetric Order|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Symmetric%20Order/Hints.txt)|
 |Speeding|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Speeding/Hints.txt)|
-|Election%20Paradox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Election%20Paradox/Hints.txt)|
-|Breaking%20Branches|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Breaking%20Branches/Hints.txt)|
-|Hanging%20Out%20on%20the%20Terrace|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hanging%20Out%20on%20the%20Terrace/Hints.txt)|
-|The%20Clock|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Clock/Hints.txt)|
+|Election Paradox|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Election%20Paradox/Hints.txt)|
+|Breaking Branches|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Breaking%20Branches/Hints.txt)|
+|Hanging Out on the Terrace|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Hanging%20Out%20on%20the%20Terrace/Hints.txt)|
+|The Clock|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Clock/Hints.txt)|
 |Autori|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Autori/Hints.txt)|
-|Free%20Food|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Free%20Food/Hints.txt)|
+|Free Food|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Free%20Food/Hints.txt)|
 |Greetings!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Greetings!/Hints.txt)|
-|Heart%20Rate|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Heart%20Rate/Hints.txt)|
+|Heart Rate|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Heart%20Rate/Hints.txt)|
 |Exam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Exam/Hints.txt)|
-|A%20New%20Alphabet|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20New%20Alphabet/Hints.txt)|
-|Cinema%20Crowds%202|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cinema%20Crowds%202/Hints.txt)|
+|A New Alphabet|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/A%20New%20Alphabet/Hints.txt)|
+|Cinema Crowds 2|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cinema%20Crowds%202/Hints.txt)|
 |Patuljci|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Patuljci/Hints.txt)|
-|Half%20A%20Cookie|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Half%20A%20Cookie/Hints.txt)|
+|Half A Cookie|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Half%20A%20Cookie/Hints.txt)|
 |Karte|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Karte/Hints.txt)|
-|I've%20Been%20Everywhere,%20Man|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/I've%20Been%20Everywhere,%20Man/Hints.txt)|
-|Track%20Smoothing|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Track%20Smoothing/Hints.txt)|
+|I've Been Everywhere, Man|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/I've%20Been%20Everywhere,%20Man/Hints.txt)|
+|Track Smoothing|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Track%20Smoothing/Hints.txt)|
 |Skener|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Skener/Hints.txt)|
 |Mult!|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mult!/Hints.txt)|
-|Jack-O'-Lantern%20Juxtaposition|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jack-O'-Lantern%20Juxtaposition/Hints.txt)|
-|Mirror%20Images|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mirror%20Images/Hints.txt)|
-|Knot%20Knowledge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Knot%20Knowledge/Hints.txt)|
+|Jack-O'-Lantern Juxtaposition|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Jack-O'-Lantern%20Juxtaposition/Hints.txt)|
+|Mirror Images|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mirror%20Images/Hints.txt)|
+|Knot Knowledge|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Knot%20Knowledge/Hints.txt)|
 |Tetration|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Tetration/Hints.txt)|
 |Mancala|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Mancala/Hints.txt)|
-|Batter%20Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Batter%20Up/Hints.txt)|
+|Batter Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Batter%20Up/Hints.txt)|
 |Cetiri|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cetiri/Hints.txt)|
-|T9%20Spelling|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/T9%20Spelling/Hints.txt)|
-|Fifty%20Shades%20of%20Pink|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Fifty%20Shades%20of%20Pink/Hints.txt)|
-|Bacon,%20Eggs,%20and%20Spam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bacon,%20Eggs,%20and%20Spam/Hints.txt)|
-|Magic%20Trick|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Magic%20Trick/Hints.txt)|
-|Luhn's%20Checksum%20Algorithm|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Luhn's%20Checksum%20Algorithm/Hints.txt)|
+|T9 Spelling|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/T9%20Spelling/Hints.txt)|
+|Fifty Shades of Pink|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Fifty%20Shades%20of%20Pink/Hints.txt)|
+|Bacon, Eggs, and Spam|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Bacon,%20Eggs,%20and%20Spam/Hints.txt)|
+|Magic Trick|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Magic%20Trick/Hints.txt)|
+|Luhn's Checksum Algorithm|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Luhn's%20Checksum%20Algorithm/Hints.txt)|
 |Vacuumba|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Vacuumba/Hints.txt)|
 |Preludes|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Preludes/Hints.txt)|
-|Sheba's%20Amoebas|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sheba's%20Amoebas/Hints.txt)|
-|Simon%20Says|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Simon%20Says/Hints.txt)|
-|Canadians,%20eh?|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Canadians,%20eh?/Hints.txt)|
-|Heir's%20Dilemma|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Heir's%20Dilemma/Hints.txt)|
-|Job%20Expenses|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Job%20Expenses/Hints.txt)|
-|Triangle%20Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Triangle%20Area/Hints.txt)|
+|Sheba's Amoebas|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Sheba's%20Amoebas/Hints.txt)|
+|Simon Says|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Simon%20Says/Hints.txt)|
+|Canadians, eh?|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Canadians,%20eh?/Hints.txt)|
+|Heir's Dilemma|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Heir's%20Dilemma/Hints.txt)|
+|Job Expenses|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Job%20Expenses/Hints.txt)|
+|Triangle Area|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Triangle%20Area/Hints.txt)|
 |Kleptography|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Kleptography/Hints.txt)|
-|Odd%20Echo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Echo/Hints.txt)|
+|Odd Echo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Echo/Hints.txt)|
 |Modulo|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Modulo/Hints.txt)|
-|Adding%20Trouble|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Adding%20Trouble/Hints.txt)|
+|Adding Trouble|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Adding%20Trouble/Hints.txt)|
 |Parking|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Parking/Hints.txt)|
 |Oddities|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Oddities/Hints.txt)|
 |Billiard|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Billiard/Hints.txt)|
 |Prsteni|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Prsteni/Hints.txt)|
 |Railroad|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Railroad/Hints.txt)|
-|Odd%20Man%20Out|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Man%20Out/Hints.txt)|
-|Moderate%20Pace|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Moderate%20Pace/Hints.txt)|
+|Odd Man Out|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Man%20Out/Hints.txt)|
+|Moderate Pace|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Moderate%20Pace/Hints.txt)|
 |Faktor|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Faktor/Hints.txt)|
-|Ghost%20Leg|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ghost%20Leg/Hints.txt)|
-|Booking%20a%20Room|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Booking%20a%20Room/Hints.txt)|
-|Broken%20Swords|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Broken%20Swords/Hints.txt)|
-|Soda%20Slurper|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Soda%20Slurper/Hints.txt)|
-|99%20Problems|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/99%20Problems/Hints.txt)|
+|Ghost Leg|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Ghost%20Leg/Hints.txt)|
+|Booking a Room|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Booking%20a%20Room/Hints.txt)|
+|Broken Swords|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Broken%20Swords/Hints.txt)|
+|Soda Slurper|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Soda%20Slurper/Hints.txt)|
+|99 Problems|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/99%20Problems/Hints.txt)|
 |Soylent|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Soylent/Hints.txt)|
-|Fading%20Wind|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Fading%20Wind/Hints.txt)|
-|Scaling%20Recipe|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Scaling%20Recipe/Hints.txt)|
-|The%20Plank|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Plank/Hints.txt)|
+|Fading Wind|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Fading%20Wind/Hints.txt)|
+|Scaling Recipe|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Scaling%20Recipe/Hints.txt)|
+|The Plank|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/The%20Plank/Hints.txt)|
 |FYI|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/FYI/Hints.txt)|
-|Laptop%20Sticker|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Laptop%20Sticker/Hints.txt)|
-|Odd%20Gnome|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Gnome/Hints.txt)|
+|Laptop Sticker|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Laptop%20Sticker/Hints.txt)|
+|Odd Gnome|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Odd%20Gnome/Hints.txt)|
 |FizzBuzz|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/FizzBuzz/Hints.txt)|
-|Birthday%20Memorization|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Birthday%20Memorization/Hints.txt)|
+|Birthday Memorization|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Birthday%20Memorization/Hints.txt)|
 |Cudoviste|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Cudoviste/Hints.txt)|
 |Planina|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Planina/Hints.txt)|
-|Line%20Them%20Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Line%20Them%20Up/Hints.txt)|
-|Greedy%20Polygons|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Greedy%20Polygons/Hints.txt)|
-|Electrical%20Outlets|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Electrical%20Outlets/Hints.txt)|
-|Rating%20Problems|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Rating%20Problems/Hints.txt)|
-|Kitten%20on%20a%20Tree|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Kitten%20on%20a%20Tree/Hints.txt)|
+|Line Them Up|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Line%20Them%20Up/Hints.txt)|
+|Greedy Polygons|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Greedy%20Polygons/Hints.txt)|
+|Electrical Outlets|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Electrical%20Outlets/Hints.txt)|
+|Rating Problems|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Rating%20Problems/Hints.txt)|
+|Kitten on a Tree|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Kitten%20on%20a%20Tree/Hints.txt)|
 |Metronome|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Metronome/Hints.txt)|
-|Weak%20Vertices|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Weak%20Vertices/Hints.txt)|
+|Weak Vertices|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Weak%20Vertices/Hints.txt)|
 |R2|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/R2/Hints.txt)|
-|Count%20the%20Vowels|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Count%20the%20Vowels/Hints.txt)|
-|Loo%20Rolls|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Loo%20Rolls/Hints.txt)|
+|Count the Vowels|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Count%20the%20Vowels/Hints.txt)|
+|Loo Rolls|[Hint](https://github.com/98andwin/Kattis_solutions/tree/main/Problems/Loo%20Rolls/Hints.txt)|
