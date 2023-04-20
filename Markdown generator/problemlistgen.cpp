@@ -28,6 +28,15 @@ int main(){
                 break;
             }
         }
+
+        // Replacing spaces with %20
+        for (string::iterator it = problem_name.begin(); it != problem_name.end(); it++){
+            if (*it == ' '){
+                problem_name.replace(it, it+1, "%20");
+            }
+        }
+
+
         string kattis_path = "https://github.com/98andwin/Kattis_solutions/tree/main/Problems/" + problem_name + "/Hints.txt";
         myfile << '|' << problem_name << '|' << "[Hint](" << kattis_path << ')' << '|' << '\n';
         //cout << folder_path << '\n';
