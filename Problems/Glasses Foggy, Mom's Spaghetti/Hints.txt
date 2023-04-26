@@ -1,0 +1,7 @@
+Math excerise.
+
+Find the coordinates of where d intersects the line from the center of the sign to the origin.
+
+Use the fact that for perpendicular lines, k1*k2 = -1.
+
+Then find where that perpendicular line intersects the other two lines.

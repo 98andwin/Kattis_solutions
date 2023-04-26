@@ -1,0 +1,1 @@
+Check if the first or second number is larger than 12.

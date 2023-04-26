@@ -1,0 +1,5 @@
+Be careful of using cin, there are spaces which can screw you.
+
+Use getline(cin, text) instead.
+
+Use <math.h> floor() to round it down.

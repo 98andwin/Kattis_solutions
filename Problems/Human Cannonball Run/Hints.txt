@@ -1,0 +1,5 @@
+Calculate the time it takes to traverse from all points of interest to other points of interest.
+
+Don't forget that the cannons launches 50 meters all the time, not less.
+
+Use Dijkstra's algorithm for directed graphs to find the shortest path.

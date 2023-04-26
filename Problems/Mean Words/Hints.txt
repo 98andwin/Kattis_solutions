@@ -1,0 +1,5 @@
+Keep track on all characters belonging to each place.
+
+Use Vectors to store the characters.
+
+You can use <math.h> floor() function to round down.

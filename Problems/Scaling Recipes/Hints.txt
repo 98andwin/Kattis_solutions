@@ -1,0 +1,10 @@
+Find the ingredient with 100% percentage.
+
+Use that as the base weight according to the scaling calculation.
+
+Use,
+
+cout.setf(std::ios::fixed, std::ios::floatfield);
+cout.precision(1);
+
+in order to output everything with 1 decimal accuracy.
