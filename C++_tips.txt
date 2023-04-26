@@ -92,18 +92,25 @@ If one wishes to also include trailing zeros, or if you want to round decimals, 
 
 cout.setf(std::ios::fixed, std::ios::floatfield); // this sets cout to print out to the n'th decimal point
 
-Or if you just only print one line and can't be bothered with typing this monster, just output std::fixed.
+Or if you just only print one line and can't be bothered with typing this monster, just output std::fixed before.
+(Remember, integers will not care about the decimals and won't output them)
 
 double pi = 3.14159265;
-int i = 10;
+double i = 10;
 cout.precision(5);
-cout << pi << std::fixed;
+
+cout << pi;
 cout << '\n';
-cout << i << std::fixed;
+cout << i;
+cout << '\n';
+
+cout << std::fixed;
+cout << pi;
 cout << '\n';
 cout << i;
 
-#Outputs 
+#Outputs
+3.1416
+10
 3.14159
 10.00000
-10
