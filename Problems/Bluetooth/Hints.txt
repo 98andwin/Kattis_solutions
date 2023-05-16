@@ -1,0 +1,5 @@
+Keep track on each row of tooth by storing them in a Vector.
+
+If a side contains a blue tooth, skip that side.
+
+If it doesn't contain a blue tooth, check if either row has no teeth at all.

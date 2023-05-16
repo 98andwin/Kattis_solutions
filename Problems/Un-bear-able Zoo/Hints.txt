@@ -1,0 +1,7 @@
+Use getline(cin, text) to get the whole line.
+
+The last word is always the animal.
+
+Take all uppercase letters and turn them to lowercase.
+
+Save the animal in a Map as (name, count).

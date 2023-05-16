@@ -1,0 +1,10 @@
+Some interesting cases:
+
+If the word only contains the same letter, it's a peragram.
+(For example, aaaaaa and bbbbb)
+
+If each letter in the word has an even amount, it's a peragram.
+(For example, aabbccdd is a peragram, since there are 2 a's, b's, c's and d's)
+
+If the count for each letter contains one odd and rest are even, it's a peragram.
+(For example, aabbbbccddeee since "abcd" are all even count and there only exist one odd count, the e's)

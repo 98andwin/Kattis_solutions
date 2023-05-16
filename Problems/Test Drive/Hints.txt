@@ -1,0 +1,7 @@
+Check the differences between the times.
+
+If they are the same, it's cruising.
+
+If one is positive and other negative, it's turned.
+
+If one is larger than the other, it's accelerating or braking.

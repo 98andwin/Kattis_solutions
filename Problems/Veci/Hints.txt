@@ -1,0 +1,8 @@
+If the digits are in ascending order, just swap the last two digits.
+
+If the digits are in descending order, it's the largest number possible.
+
+Otherwise find the rightmost pair where the left digit is smaller than the right digit.
+That's your pivot, find the smallest digit larger than left digit in the pair above and on the right side of the pivot.
+
+Switch and then sort the right side of the pivot.

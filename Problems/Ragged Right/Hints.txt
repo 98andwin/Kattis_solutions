@@ -1,0 +1,3 @@
+Keep track on the lengths of each paragraph.
+
+Use getline(cin, text) to extract line by line.

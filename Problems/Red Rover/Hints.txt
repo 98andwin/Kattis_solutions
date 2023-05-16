@@ -1,0 +1,10 @@
+Check every n-length word combination and keep track on how many you've seen.
+
+For each n-length, you only calculate with the most frequent word you found.
+
+You can use unordered map for storage of words you've seen.
+
+Remember that you need to filter out words if you've just seen them.
+
+For example EEEEEE and you are checking all 3-length words, there are 2 "EEE"s we can substitute but if you blindly use a for-loop it'll find 4 "EEE"s.
+So have an array of words you have recently seen and only add if it's not in the array, and update accordingly.

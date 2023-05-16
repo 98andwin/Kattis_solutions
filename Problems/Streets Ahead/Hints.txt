@@ -1,0 +1,3 @@
+Save each street, distance pair inside a hashtable (unordered map) for fast lookups.
+
+Differences might become negative, but we only output as positive.

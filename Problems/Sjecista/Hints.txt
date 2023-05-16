@@ -1,0 +1,1 @@
+There exists a formula for calulating the number of intersections of diagonals in a convex polygon.

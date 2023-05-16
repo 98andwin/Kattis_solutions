@@ -1,0 +1,3 @@
+Use modulo % the cycle length.
+
+The dogs start agrresive.

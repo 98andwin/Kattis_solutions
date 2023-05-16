@@ -1,0 +1,3 @@
+Calculate how much money Bob has saved.
+
+Dividing in integers round everything down, so you can just add 1 onto it to fullfill the strict requirement.
