@@ -1,0 +1,3 @@
+Check the difference of the amount of chicken compared to the amount of people.
+
+Don't forget to check singular/plural, is it "pieces" or "piece"?

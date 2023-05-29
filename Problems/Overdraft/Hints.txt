@@ -1,0 +1,5 @@
+Add all numbers to a sum.
+
+If the sum gets below 0, save that number to a variable.
+
+If the sum gets even further below, update so it's always the lowest number.

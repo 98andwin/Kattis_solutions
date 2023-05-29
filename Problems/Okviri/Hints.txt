@@ -1,0 +1,3 @@
+Keep track on every third character, use modulo % 3.
+
+A trick is to overwrite the last character in the string to deal with the overlapping.

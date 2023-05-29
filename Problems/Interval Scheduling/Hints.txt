@@ -1,0 +1,7 @@
+Greedy algorithm: For each step, choose the interval with the lowest end time who doesn't collide with the starting time.
+
+Sort all the pairs according to their end times. (Using Map is probably the most convinient)
+
+You can simply go through the whole list of pairs from the lowest to the largest. Then just check it's starting value to make sure it doesn't collide and update when neccesary.
+
+There can be multiple intervals which ends at the same time, then just save the one which starts the latest.

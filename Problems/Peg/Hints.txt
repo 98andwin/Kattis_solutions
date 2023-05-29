@@ -1,0 +1,5 @@
+Use a 2D array to save the state of the map.
+
+Use getline(cin, text) for easier reading of the input (else you might skip reading the spaces)
+
+Check all rows of triplets to easier check which pieces can move.

@@ -1,0 +1,5 @@
+Keep track on both directions.
+
+You can step through clockwise and counterclock wise each step and see if it hits.
+
+Remembe to change value if it goes out of range. (0, 359)

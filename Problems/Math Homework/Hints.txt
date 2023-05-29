@@ -1,0 +1,17 @@
+Test all combinations there are.
+
+Start with 0 0 0, then increment the last number with 1 until you reach the limit.
+
+000
+001
+002
+...
+010
+011
+012
+...
+100
+101
+...
+
+Keep track on how many legs you have left, that can help you reduce the number of steps you need to take.

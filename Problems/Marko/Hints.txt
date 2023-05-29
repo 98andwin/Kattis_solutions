@@ -1,0 +1,3 @@
+A difference with T9 input, you don't need to do repeated tapping. Only one tap is needed.
+
+Convert each letter to the respective integer and then compare it to the code word.
