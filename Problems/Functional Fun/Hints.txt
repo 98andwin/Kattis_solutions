@@ -1,0 +1,11 @@
+If one element in the domain maps to multiple elements in the codomain, it's not a function.
+
+Use a Map to have pairs of {element, count} where you can keep track on how many times an element in the codomain has been mapped.
+
+To find out if a function is injective or surjective, follow these rules:
+
+An injective function have all elements in the codomain mapped not more than once.
+If any element is mapped twice or more, it's not injective.
+
+A surjective function have all elements in the codomain mapped.
+If any element have no mappings, it's not surjective.

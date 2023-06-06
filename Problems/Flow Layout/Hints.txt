@@ -1,0 +1,9 @@
+Add each panel row for row.
+
+Start a new row if the width gets too large.
+
+Keep track for each row the maximum height of the panels.
+
+When adding a new row, add the maximum height for that row.
+
+When adding a new panel, check if the row length is larger than the current window length.

@@ -1,0 +1,3 @@
+Save the house into a 2D array.
+
+Have a while loop to travel through the house, and stop when you first encounter an 'x'.

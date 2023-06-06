@@ -1,0 +1,5 @@
+Have a Vector with a count of all the integers you see.
+
+Use a variable for the storage of the lowest frequency of integers currently seen.
+
+If a value has lower then create a new vector and update the lowest frequency.

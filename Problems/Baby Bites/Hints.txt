@@ -1,0 +1,3 @@
+If it's a mumble, don't care.
+
+Otherwise check if it follows the counting order.

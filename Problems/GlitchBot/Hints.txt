@@ -1,0 +1,3 @@
+Create a function for calculating the path it takes given an array with instructions.
+
+Try out all different combinations, for each instruction switch it out for the other two and check if it's correct.

@@ -1,0 +1,5 @@
+The first time the hourglass is flipped is the first value of the second line, not at time 0.
+
+Empty the sand and then flip.
+
+Keep track on how much sand there is at the upper half.

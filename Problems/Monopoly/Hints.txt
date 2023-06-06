@@ -1,0 +1,1 @@
+Find the propability of each dice throw and add them together.

@@ -1,0 +1,22 @@
+Sort the numbers from lowest to highest.
+
+Check the quotient and update if lower was found.
+
+If the quotient is larger than 1, it's impossible (since one balloon will explode).
+
+
+Example:
+
+4
+3 2 2 1
+
+Sorted becomes
+1 2 2 3
+
+Checking quotients
+1/1 = 1
+2/2 = 1
+2/3 = 0.666666 (update)
+3/4 = 0.75
+
+Output: 0.666666

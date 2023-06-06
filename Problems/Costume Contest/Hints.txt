@@ -1,0 +1,3 @@
+You can use Map for storage in lexiographic order (using iterator).
+
+Keep track on how many times you've seen each string, using Map<string, int> pairs is an example.

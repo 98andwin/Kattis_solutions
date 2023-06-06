@@ -1,0 +1,3 @@
+Keep track on the sum of total votes and the current maximum.
+
+Use a bool for tracking of tied votes.

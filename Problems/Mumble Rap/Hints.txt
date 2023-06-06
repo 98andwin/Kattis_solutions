@@ -1,0 +1,3 @@
+Go through character by character and check if it is an integer or not.
+
+Keep track on the largest integer you've found.

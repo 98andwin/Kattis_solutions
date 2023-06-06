@@ -1,0 +1,5 @@
+Find the longest distance between two of the points, that is the hypotenuse.
+
+WHen you've found the hypotenuse you can find the midpoint of the square.
+
+Use that midpoint and the remaining point to find the fourth.
