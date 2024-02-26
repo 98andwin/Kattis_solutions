@@ -1,0 +1,5 @@
+Use for loops to go through all numbers.
+
+Have a running sum that adds all numbers, if the sum gets larger than x that there are too few bottles.
+
+If there are more rooms than bottles there are not enough bottles, no need to calculate everything.

@@ -1,0 +1,1 @@
+Check each triplet inside the word, a for loop is advisable.

@@ -1,0 +1,84 @@
+Using the sort() function from the <algorithm> library gives you a very nice way of being able to efficiently sort with a custom sorting function.
+(https://cplusplus.com/reference/algorithm/sort/ check this for reference)
+
+It helps to save each entry as a list or object with the index of entry saved.
+This helps with returning to the previous order after calculating the score.
+
+Keep in mind of some few test cases, for example if there is only one entry, if there are ties or if there is a tie that is over the 30th place (for example 20th to 35th are all ties).
+
+You can try your algorithm with this test case:
+
+#Input
+35
+77 7 3 0
+35 7 5 0
+78 7 3 0
+90 7 5 1
+76 7 3 0
+32 7 5 0
+40 7 5 0
+90 7 3 1
+30 7 5 0
+37 7 5 0
+31 7 5 0
+30 7 5 0
+79 7 3 0
+80 6 3 0
+38 7 5 0
+30 7 5 0
+30 7 5 0
+30 7 5 0
+80 7 3 0
+30 7 5 0
+90 7 4 0
+73 7 3 0
+75 7 3 0
+90 5 3 0
+80 7 3 0
+74 7 3 0
+80 5 3 0
+1 1 1 0
+39 7 5 0
+34 7 5 0
+33 7 5 0
+30 7 5 0
+30 7 5 0
+80 7 4 1
+36 7 5 0
+
+#Output
+22
+9
+24
+51
+20
+6
+14
+76
+2
+11
+5
+2
+26
+40
+12
+2
+2
+2
+34
+2
+60
+15
+18
+100
+34
+16
+45
+0
+13
+8
+7
+2
+2
+30
+10

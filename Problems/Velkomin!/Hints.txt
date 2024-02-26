@@ -1,0 +1,1 @@
+Use, cout << "STRING", for printing out texts.

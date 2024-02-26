@@ -1,0 +1,1 @@
+Use double instead of float to get enough decimal precision.

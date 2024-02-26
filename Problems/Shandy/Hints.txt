@@ -1,0 +1,1 @@
+Use if statements to find out which number is the lowest.

@@ -1,0 +1,2 @@
+Check every character if it's a '.', if yes then add to a counter.
+Use that counter to calculate the ratio.

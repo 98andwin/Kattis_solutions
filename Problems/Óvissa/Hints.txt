@@ -1,0 +1,2 @@
+Every testcase is only made of "u"s, so you can grab everything.
+.size() can be used to return the length of a string.

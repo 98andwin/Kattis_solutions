@@ -1,0 +1,1 @@
+None of the testcases changes the hour, so you can simply subtract to get the answer.

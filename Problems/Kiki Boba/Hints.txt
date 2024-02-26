@@ -1,0 +1,3 @@
+Check every letter in the word and count the "k"s and "b"s.
+
+Remember that if there are no "k"s or "b"s you need to output "none" and not "boki"

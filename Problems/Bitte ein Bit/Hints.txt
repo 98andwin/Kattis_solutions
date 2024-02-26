@@ -1,0 +1,1 @@
+You can choose any bit, so just print the first one.

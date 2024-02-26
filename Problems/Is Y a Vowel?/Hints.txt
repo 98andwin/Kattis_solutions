@@ -1,0 +1,2 @@
+For every character in the string, check if it's a vowel or not.
+Keep track on both with y and without y.
